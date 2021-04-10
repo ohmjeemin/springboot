@@ -1,4 +1,4 @@
-package repository;
+package ojm.hellospring.repository;
 
 import domain.Member;
 

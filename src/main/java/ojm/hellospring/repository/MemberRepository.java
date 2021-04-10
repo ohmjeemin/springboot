@@ -1,4 +1,4 @@
-package repository;
+package ojm.hellospring.repository;
 ;
 import java.util.List;
 import java.util.Optional;

@@ -1,11 +1,11 @@
-package service;
+package ojm.hellospring.service;
 
 import domain.Member;
-import repository.MemberRepository;
-import repository.MemoryMemberRepository;
+import ojm.hellospring.repository.MemberRepository;
 
 import java.util.List;
 import java.util.Optional;
+
 
 public class MemberService {
 
